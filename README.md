@@ -393,6 +393,9 @@ INC B
 
 `? in` in lab 7 should be attached to `b in` so that the lab instructor can see the value stored in register B and verify the proper running of the program.
 
+Once the instructions are set, you should obtain a pattern which stays constant at MOV A, B; goes up by 1 at INC B; and goes down by 1 at MOV B, A. Thus the pattern is "STAY, INC, DEC, INC, STAY, etc."
+
+
 #### To include in Lab Report 4
 
 __SUBJECT TO CHANGE__
